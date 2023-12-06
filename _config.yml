@@ -17,3 +17,8 @@ favicon_ico: "/assets/images/favicon.ico"
 
 # Color scheme supports "light" (default) and "dark"
 # color_scheme: ibera_light
+
+callouts:
+  warning:
+    title: Warning
+    color: red
