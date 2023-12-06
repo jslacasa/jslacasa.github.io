@@ -3,6 +3,14 @@ title: Home
 layout: home
 ---
 
+Íbera no es más que el lugar donde recopilo algunos escritos y opiniones para poder compartirlos de forma fácil en internet. No tiene una estructura clara ni un calendario de publicación consistente.
+
+Aquí puedes encontrar la lista de artículos.
+
+Si quieres saber un poco más sobre mi, o encontrarme en las redes sociales, puedes leer la sección Sobre mi.
+
+El logo es un dibujo digital de la Esfinge de Balazote (o Bicha de Balazote), una escultura íbera que se encontró en el término municipal de Balazote, en la provincia de Albacete, y que se puede visitar en el Museo Arqueológico Nacional de España, en Madrid. 
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
