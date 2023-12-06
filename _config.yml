@@ -10,5 +10,10 @@ aux_links:
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/bicha-balazote-color-details-text.png"
 
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.ico"
+
+
+
 # Color scheme supports "light" (default) and "dark"
 # color_scheme: ibera_light
