@@ -1,4 +1,4 @@
-title: Íbera
+title: ÍBERA
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
@@ -8,7 +8,7 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/bicha-balazote-color-details-text.png"
+logo: "/assets/images/bicha-balazote-color-details.png"
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/favicon.ico"

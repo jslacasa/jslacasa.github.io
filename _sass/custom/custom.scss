@@ -4,4 +4,15 @@ html {
     @include fs-5;
   
     scroll-behavior: smooth;
-  }
+}
+
+// .nav-list {
+ 
+//     .nav-list-item {
+//       @include fs-4;
+    
+//       @include mq(md) {
+//         @include fs-3;
+//       }
+//     }
+// }
