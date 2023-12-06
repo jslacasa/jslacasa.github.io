@@ -3,6 +3,8 @@ layout: default
 title: Aimar, no eres tú, soy yo.
 parent: Artículos
 # nav_order: 5
+permalink: /Aimar
+date: 2023-11-26
 ---
 
 # Aimar, no eres tú, soy yo.
