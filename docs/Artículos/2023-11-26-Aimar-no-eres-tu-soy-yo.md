@@ -9,11 +9,15 @@ date: 2023-11-26
 
 # Aimar, no eres tú, soy yo.
 
-{: .warning}
+
 Jesús Lacasa
+{: .label .label-grey}
 
-
+{: .label .label-grey}
 26 de diciembre de 2023
+
+CC-BY-SA
+{: .label .label-grey}
 
 <!-- {: .no_toc }
 
@@ -26,7 +30,7 @@ Jesús Lacasa
 {:toc}
 </details> -->
 
----
+<!-- --- -->
 
 
 Vaya por delante mi más absoluto respeto a tu trabajo como periodista y como director de Hora 25. Me abruma la cifra, pero hará unos 15 o 16 años que escucho el programa noche tras noche. Especialmente importantes han sido los últimos 5 años en los que he vivido en Israel. Si mi familia y mis amigos han sido mi conexión con Murcia y con mis raíces, la Cadena SER ha sido mi conexión con España, con su política y su sociedad. No exagero si digo que desayunar escuchando el pódcast de Hora 25 de la noche anterior se ha convertido en uno de mis momentos favoritos del día. Y, sin embargo, estoy aquí para confesarle que necesito un tiempo. 
