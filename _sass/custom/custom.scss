@@ -1,1 +1,7 @@
 // custom SCSS (or CSS) goes here
+
+html {
+    @include fs-5;
+  
+    scroll-behavior: smooth;
+  }
