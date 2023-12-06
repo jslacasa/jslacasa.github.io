@@ -39,4 +39,11 @@
 .label-grey:not(g) {
   color: $grey-dk-200;
   background-color: $grey-lt-200;
+  text-transform: none;
+}
+
+.label-brown:not(g) {
+  color: $brown-300;
+  background-color: $brown-000;
+  text-transform: none;
 }
