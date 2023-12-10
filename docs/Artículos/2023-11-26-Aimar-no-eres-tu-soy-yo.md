@@ -14,7 +14,7 @@ Jesús Lacasa
 {: .label .label-grey}
 
 {: .label .label-grey}
-26 de diciembre de 2023
+26 de noviembre de 2023
 
 CC-BY-SA
 {: .label .label-grey}
