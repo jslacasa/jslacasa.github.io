@@ -17,3 +17,29 @@ html {
     background-color: $brown-000;
     text-transform: none;
 }
+
+site-header {
+    display: flex;
+    // height: 10rem;
+    min-height: 5rem;
+    align-items: center;
+}
+
+.site-logo {
+    background-position: center center;
+    height:5rem;
+}
+
+@media (min-width: 50rem) {
+    .site-header {
+      height: 10rem;
+      max-height: 10rem;
+      border-bottom: 0px solid #eeebee;
+    }
+
+    .site-logo {
+        background-position: center center;
+        height:10rem;
+    }
+}
+
