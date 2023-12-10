@@ -1,8 +1,8 @@
 ---
 layout: default
 title: La amenaza en Gaza es tripartita
-parent: Artículos
-# nav_order: 5
+parent: articulos
+nav_order: 2.1
 permalink: /articulos/amenaza-Gaza-tripartita
 date: 2023-11-08
 ---

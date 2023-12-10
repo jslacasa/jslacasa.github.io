@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Aimar, no eres tú, soy yo
-parent: Artículos
-# nav_order: 5
+parent: articulos
+nav_order: 2.2
 permalink: /articulos/Aimar
 date: 2023-11-26
 ---
