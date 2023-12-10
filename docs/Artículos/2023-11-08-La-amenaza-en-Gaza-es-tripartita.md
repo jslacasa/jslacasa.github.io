@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aimar, no eres tú, soy yo.
+title: La amenaza en Gaza es tripartita
 parent: Artículos
 # nav_order: 5
 permalink: /articulos/amenaza-Gaza-tripartita

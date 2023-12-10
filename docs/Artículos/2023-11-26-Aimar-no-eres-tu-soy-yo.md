@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Aimar, no eres tú, soy yo.
+title: Aimar, no eres tú, soy yo
 parent: Artículos
 # nav_order: 5
 permalink: /articulos/Aimar
 date: 2023-11-26
 ---
 
-# Aimar, no eres tú, soy yo.
+# Aimar, no eres tú, soy yo
 
 
 Jesús Lacasa
