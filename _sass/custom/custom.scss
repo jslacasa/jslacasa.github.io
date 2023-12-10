@@ -18,10 +18,22 @@ html {
     text-transform: none;
 }
 
+site-header {
+    display: flex;
+    // height: 10rem;
+    min-height: 10rem;
+    align-items: center;
+}
+
 @media (min-width: 50rem) {
     .site-header {
       height: 10rem;
       max-height: 10rem;
-      border-bottom: 1px solid #eeebee;
+      border-bottom: 0px solid #eeebee;
     }
-  }
+}
+
+.site-logo {
+    background-position: center center;
+    height:5rem;
+}
