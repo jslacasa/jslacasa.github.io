@@ -1,0 +1,36 @@
+---
+layout: default
+title: Hola
+parent: Artículos
+nav_order: 2.2
+permalink: /articulos/hola
+date: 2023-11-26
+---
+
+# Aimar, no eres tú, soy yo
+
+
+Jesús Lacasa
+{: .label .label-grey}
+
+{: .label .label-grey}
+16 de octubre de 2025
+
+CC-BY-SA
+{: .label .label-grey}
+
+<!-- {: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details> -->
+
+<!-- --- -->
+
+
+Hola y ya.
